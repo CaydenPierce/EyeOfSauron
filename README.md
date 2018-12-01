@@ -1,4 +1,4 @@
-# EyeOfSauron2
+# EyeOfSauron
 My team and I created a 30 foot tall, realistic version of the Eye of Sauron.
 
 
